@@ -1,0 +1,27 @@
+Write a program that prints the numbers from 1 to n
+
+for multiples of 3 print Fizz instead of the number
+for the multiples of 5 print Buzz instead of the number
+for numbers which are multiplies of both 3 and 5 print FizzBuzz
+for numbers not divisible by, 3, 5, or both, print the number as is
+Expected Result
+Input n = 20
+
+
+Jawaban
+
+Judul : print for number from 1 to 20
+
+Deklarasi :
+number = text (Fizz / Buzz / FizzBuzz)
+
+Deskripsi :
+if (number multiples of 3) then:
+   print "Fizz"
+else if (number multiples of 5) then:
+   print "Buzz"
+else if (number multiples of 3 and 5) then:
+   print "FizzBuzz"
+else (numbers not divisible by 3, 5, or both) then:
+   print "number"
+end
